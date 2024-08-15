@@ -43,14 +43,11 @@
 
 1. **Клонирование репозитория**:
 
-   git clone <repository-url>
-   cd <repository-directory>
 Установка зависимостей:
-bash
+react native cli 
 Копировать код
 npm install
 Запуск проекта:
-bash
 Копировать код
 npx react-native run-android
 или

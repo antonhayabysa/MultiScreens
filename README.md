@@ -3,6 +3,11 @@
 ## Описание
 
 Это мобильное приложение состоит из трех основных экранов:
+<img width="398" alt="Снимок экрана 2024-08-15 в 21 50 15" src="https://github.com/user-attachments/assets/1f488c58-069d-45c3-98a4-aae5442de0dc">
+<img width="398" alt="Снимок экрана 2024-08-15 в 21 51 04" src="https://github.com/user-attachments/assets/a508afb4-8e4f-4aef-b467-dc73407dabf8">
+<img width="398" alt="Снимок экрана 2024-08-15 в 21 51 13" src="https://github.com/user-attachments/assets/b37534d1-3a9e-42f5-904f-be6cf2b873fe">
+<img width="398" alt="Снимок экрана 2024-08-15 в 21 51 23" src="https://github.com/user-attachments/assets/b5685404-86e5-4c8e-8c86-6dbd70532c78">
+<img width="398" alt="Снимок экрана 2024-08-15 в 21 50 22" src="https://github.com/user-attachments/assets/0014f678-cfa8-4aeb-86bb-0f9383b16090">
 
 1. **Home** (Главный экран)
 2. **Add Item** (Добавление элемента)
